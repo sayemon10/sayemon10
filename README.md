@@ -1,4 +1,11 @@
-### Hi there 👋
+# Howdy! 👋
+
+m S. M. Abdul Aziz, self-taught front-end developer, from <a href="http://shorturl.at/anrEZ"
+          target="_blank" rel="noopener" rel="noreferrer" title="Chittagong">Chittagong</a>, port city on the
+        southeastern coast of Bangladesh. I’ve studied in Statistics @ <a href="http://www.sust.edu" target="_blank"
+          rel="noopener" rel="noreferrer" title="Shahjalal University of Science & Technology, Sylhet-3114">SUST</a> and
+        then I found my passion in Designing & Programming . I do Web, Mobile, UI/UX and Front-End development. I’m a
+        quick-learner and an independent individual.
 
 <!--
 **sayemon10/sayemon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
