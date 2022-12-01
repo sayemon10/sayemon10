@@ -2,14 +2,14 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Software Engineer based in **[Chittagong](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- A Front-End Engineer based in **[Chittagong](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Working as **Front-End UI/UX Designer** at **[Tripovy][work]**.
 - Open Source enthusiast.
 - See my website at **[sayemon10.com][website]**.
 
 #### What are my skill sets?
 
-- 🖥 **Frontend:**
+- 🖥 **Front-End:**
 
   - **Language:** `HTML` `CSS` `JavaScript`
   - **Framework/Library:** `React.js` • `Next.js`
