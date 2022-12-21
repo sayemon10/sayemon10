@@ -16,8 +16,9 @@ Hi there 👋!
   - **Utils:** `Tailwind` 
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** • `GitHub Codespaces`
+  - **Containerization:**  `GitHub Codespaces`
   - **Version Control:** `Git` • `GitHub`
+  - **Design:**  `Figma`
 
 #### How to reach me?
 
