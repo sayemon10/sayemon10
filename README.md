@@ -1,6 +1,6 @@
 Hi there 👋!
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits)][def]
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
 
 [def]: https://github.com/sayemon10/github-widgetbox
 
