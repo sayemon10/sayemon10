@@ -1,5 +1,7 @@
 Hi there 👋!
 
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
 
 [def]: https://github.com/sayemon10/github-widgetbox
