@@ -1,7 +1,5 @@
 Hi there 👋!
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
 
 [def]: https://github.com/sayemon10/github-widgetbox
@@ -29,6 +27,7 @@ Hi there 👋!
 
 #### How to reach me?
 
+
 <a href="https://twitter.com/sayemon10">
   <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
@@ -40,5 +39,8 @@ Hi there 👋!
 </a>
 
 
+
 [work]: https://tripovy.com/
 [website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
+
+<div><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"></div>
