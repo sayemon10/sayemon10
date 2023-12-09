@@ -1,5 +1,7 @@
 Hi there 👋!
 
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA7A1&width=444&height=54&lines=I'm S.+M.+Abdul+Aziz..." alt="Typing SVG" /></a>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
 
 [def]: https://github.com/sayemon10/github-widgetbox
