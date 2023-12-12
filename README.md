@@ -1,10 +1,6 @@
 Hi there 👋!
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA7A1&width=444&height=54&lines=I'm S.+M.+Abdul+Aziz..." alt="Typing SVG" /></a>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
-
-[def]: https://github.com/sayemon10/github-widgetbox
+<!---<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA7A1&width=444&height=54&lines=I'm S.+M.+Abdul+Aziz..." alt="Typing SVG" /></a>-->
 
 #### Who I am?
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
@@ -18,6 +14,7 @@ Hi there 👋!
 
 - 🖥 **Front-End:**
 
+  - **Code Editor:** `Vim`
   - **Language:** `HTML` `CSS` `JavaScript`
   - **Framework/Library:** `React.js` • `Next.js`
   - **Utils:** `Tailwind` 
@@ -39,6 +36,10 @@ Hi there 👋!
 <a href="mailto:abdulaziz.aziz99@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
+
+[def]: https://github.com/sayemon10/github-widgetbox
 
 [work]: https://tripovy.com/
 [website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
