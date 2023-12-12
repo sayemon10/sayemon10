@@ -37,12 +37,12 @@ Hi there 👋!
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
-
-[def]: https://github.com/sayemon10/github-widgetbox
-
 [work]: https://tripovy.com/
 [website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
 ...
 
 <div><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"></div>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayemon10&data=followers,repositories,stars,commits&theme=rgb)][def]
+
+[def]: https://github.com/sayemon10/github-widgetbox
