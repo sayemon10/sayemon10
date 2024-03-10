@@ -5,7 +5,7 @@ Hi there 👋!
 #### Who I am?
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
-- A Front-End Engineer based in **[Chattogram](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- A Front-End Designer based in **[Chattogram](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Working as **Cross-Platform Front-End UI/UX Designer** at **[Tripovy][work]**.
 - Open Source enthusiast.
 - See my website at **[sayemon10.com][website]**.
