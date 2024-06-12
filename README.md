@@ -14,7 +14,7 @@ Hi there 👋!
 
 - 🖥 **Front-End:**
 
-  - **Code Editor:** `Vim`
+  - **Code Editor:** `Vim` `VS Code`
   - **Language:** `HTML` `CSS` `JavaScript`
   - **Framework/Library:** `React.js` • `Next.js`• `Expo`  
   - **Utils:** `Tailwind` 
