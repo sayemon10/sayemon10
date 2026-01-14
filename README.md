@@ -7,7 +7,7 @@ Hi there 👋!
 
 - A Front-End Designer based in **[Chattogram](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Open Source enthusiast.
-- See my website at **[www.sayemon10.com][website]**.
+- See my website at **[sayemon10.com][website]**.
 
 #### What are my skill sets?
 
@@ -37,7 +37,7 @@ Hi there 👋!
 </a>
 
 [work]: https://tripovy.com/
-[website]: https://www.sayemon10.com/?utm_source=github&utm_medium=sayemon10
+[website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
 ...
 
 <div><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"></div>
