@@ -13,7 +13,7 @@ Hi there 👋!
 
 - 🖥 **Front-End:**
 
-  - **Code Editor:** `Nvim` `Zed`
+  - **Code Editor:** `Neovim` `Zed`
   - **Language:** `HTML` `CSS` `JavaScript` `TypeScript`
   - **Framework/Library:** `React.js` • `Next.js`• `Expo`  
   - **Utils:** `Tailwind` 
