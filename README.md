@@ -14,13 +14,13 @@ Hi there 👋!
 
   - **Code Editor:** `NeoVim` `Zed`
   - **Language:** `HTML` `CSS` `JavaScript` `TypeScript`
-  - **Framework/Library:** `React.js` • `Next.js`• `Expo`  
+  - **Framework/Library:** `React.js` • `Next.js`• `Expo`• `Svelte`• `Sveltekit`  
   - **Utils:** `Tailwind` 
 
 - 🎡 **Ecosystem:**
   - **Containerization:**  `GitHub Codespaces`
   - **Version Control:** `Git` • `GitHub`
-  - **Design:**  `Figma`
+  - **Design:**  `Figma`• `Paper`
 
 #### How to reach me?
 
