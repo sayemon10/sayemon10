@@ -10,8 +10,9 @@ Hi there 👋!
 
 #### What are my skill sets?
 
-![Fedora](https://img.shields.io/badge/Fedora_44-KDE%20Plasma-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Konsole-51A2DA?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux][Linux-image]
+![Fedora][fedora]
+![Shell][konsole]
 
 - 🖥 **Front-End:**
 
@@ -40,4 +41,7 @@ Hi there 👋!
 
 <div><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"></div>
 
+[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+[fedora]: https://img.shields.io/badge/Fedora_44-KDE%20Plasma-51A2DA?style=flat-square&logo=fedora&logoColor=white
+[konsole]: https://img.shields.io/badge/Shell-Konsole-51A2DA?style=flat-square&logo=gnu-bash&logoColor=white
 [website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
