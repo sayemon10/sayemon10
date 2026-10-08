@@ -10,6 +10,9 @@ Hi there 👋!
 
 #### What are my skill sets?
 
+![Fedora](https://img.shields.io/badge/Fedora_44-KDE%20Plasma-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Konsole-51A2DA?style=flat-square&logo=gnu-bash&logoColor=white)
+
 - 🖥 **Front-End:**
 
   - **Code Editor:** `NeoVim` `Zed`
