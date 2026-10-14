@@ -93,6 +93,6 @@ Hi there 👋!
 [Git-image]: https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
 [GitHub-image]: https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
 [Figma-image]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
-[Paper-image]: https://img.shields.io/badge/Paper-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTIxIDE0LjA4aC02LjkyVjUuNzdINS43N3Y4LjMxaDguMzFWMjFIM1Y1Ljc3aDIuNzdWM0gyMXoiLz48L3N2Zz4=&logoColor=black
+[Paper-image]: https://img.shields.io/badge/Paper-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMSAxNC4wOGgtNi45MlY1Ljc3SDUuNzd2OC4zMWg4LjMxVjIxSDNWNS43N2gyLjc3VjNIMjF6Ii8+PC9zdmc+
 
 [website]: https://sayemon10.com/?utm_source=github&utm_medium=sayemon10
