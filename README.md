@@ -71,7 +71,7 @@ Hi there 👋!
 [Linux-image]: https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white
 [Fedora-image]: https://img.shields.io/badge/Fedora_44-51A2DA?style=flat-square&logo=fedora&logoColor=white
 [KDE-image]: https://img.shields.io/badge/KDE_Plasma-51A2DA?style=flat-square&logo=kde&logoColor=white
-[Konsole-image]: https://img.shields.io/badge/Shell-Konsole-51A2DA?style=flat-square&logo=gnubash&logoColor=white
+[Konsole-image]: https://img.shields.io/badge/Shell-Bash-51A2DA?style=flat-square&logo=gnubash&logoColor=white
 
 [NeoVim-image]: https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white
 [Zed-image]: https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white
